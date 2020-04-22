@@ -12,9 +12,8 @@
 
 ### ✔ Sample Video
 
-[![sample1](./sample_img/sample1_image.png)](https://youtu.be/4tgB8BhhObg "sampleVid1")
-
-[![sample1](./sample_img/sample2_image.png)](https://youtu.be/CENVUOqmX5I "sampleVid2")
+<a href="{https://youtu.be/4tgB8BhhObg}" title="Sample1"><img src="./sample_img/sample1_image.png" alt="Sample1" width='48%'/></a>
+<a href="{https://youtu.be/CENVUOqmX5I}" title="Sample2"><img src="./sample_img/sample2_image.png" alt="Sample2" width='48%'/></a>
 
 - 검은색 화살표: 전하의 속도벡터
 - 보라색 화살표: 전하의 알짜힘 벡터
